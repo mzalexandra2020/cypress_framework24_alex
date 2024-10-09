@@ -1,0 +1,18 @@
+{
+  "username": "GGG",
+  "password": "p@ssword",
+
+  "user1": {
+    "firstName": "Alex",
+    "lastName": "Martinez",
+    "addressStreet": "101 Main",
+    "addressCity": "Austin",
+    "addressState": "TX",
+    "addressZip": "78502",
+    "phoneNumber": "502-502-5502",
+    "customerSSN": "555-44-3333",
+    "registrationUsername": "amartini",
+    "registrationPassword": "password1",
+    "confirmPassword": "password1"
+  }
+}
